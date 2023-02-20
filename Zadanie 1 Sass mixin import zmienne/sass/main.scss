@@ -1,0 +1,6 @@
+@use './reset';
+// nie używamy import, faktycznie do use dodajemy zmienne ale tu ich nie ma ponieważ nie ma ich w _reset.scss
+
+body {
+    background-color: #fff;
+}
